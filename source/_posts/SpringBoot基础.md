@@ -5,7 +5,7 @@ tags:
     - Spring
     - Spring Boot 
     - Web
-catagories: Java
+categories: Java
 ---
 
 # *一、**Spring Boot 入门
