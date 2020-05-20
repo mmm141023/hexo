@@ -484,8 +484,8 @@ reprint:
 
 # DaoVoice online contact
 daovoice:
-  enable: false
-  app_id:
+  enable: true
+  app_id: 9de6a022
 
 # Tidio online contact
 tidio:
