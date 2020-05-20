@@ -484,13 +484,13 @@ reprint:
 
 # DaoVoice online contact
 daovoice:
-  enable: true
-  app_id: 9de6a022
+  enable: false
+  app_id:
 
 # Tidio online contact
 tidio:
-  enable: false
-  public_key:
+  enable: true
+  public_key: ujbtzczfdn8j8zfwvf22w4qasjhew9wk
 
 #背景canvas-nest
 canvas_nest:
