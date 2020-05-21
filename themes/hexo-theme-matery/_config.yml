@@ -103,7 +103,7 @@ music:
 # Whether to display the videos.
 # 是否在首页显示视频.
 video:
-  enable: true
+  enable: false
   showTitle: true
   title: 我爱你中国
   url: https://apd-b4575f3330cb92dbff71b5d720858a30.v.smtcdns.com/mv.music.tc.qq.com/AU7uEUDxaqj3vjNEg2mQOtUbI-ZvUB7jNWyrQxw5195g/CDF9470A5ADFFC45FC0646E268689AD210658081D279E123455BF4F10FF201A52D24D76ED537B91623A68C2D93649362ZZqqmusic_default/qmmv_0a6bisigbqdvqqihbudqkdqgbyhfpv4zqtfmhnfli4gaeaqcb4fa.f9844.mp4?fname=qmmv_0a6bisigbqdvqqihbudqkdqgbyhfpv4zqtfmhnfli4gaeaqcb4fa.f9844.mp4
