@@ -1,6 +1,11 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
+baidu_url_submit:
+  count: 300               # 提交最新的多少个链接
+  host: www.lbwsquare.com    # 在百度站长平台中添加的域名
+  token: MsiR1c1mAI9u8eaB      # 秘钥
+  path: baidu_urls.txt   # 文本文档的地址， 新链接会保存在此文本文档里
 # 增加搜索功能
 search:
   path: search.xml
@@ -18,7 +23,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.lbwsquare.com
+url: https://www.lbwsquare.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -109,4 +114,4 @@ theme: hexo-theme-matery
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: baidu_url_submitter
