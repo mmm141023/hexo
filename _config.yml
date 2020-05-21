@@ -14,9 +14,9 @@ search:
   limit: 10000
 # Site
 title: 卢本伟广场
-subtitle: '科大才子'
-description: ''
-keywords: 科大才子
+subtitle: '前端后端到全栈'
+description: 'Java后端开发，Spring,Spring全家桶,分布式，重构，缓存，代理，基础，前端，Html，CSS,JS，Vue，React，AOP，面试，网络'
+keywords: Java后端开发，Spring,Spring全家桶,分布式，重构，缓存，代理，基础，前端，Html，CSS,JS，Vue，React，AOP，面试，网络
 author: Chaoying Mao
 language: zh-CN
 timezone: ''
