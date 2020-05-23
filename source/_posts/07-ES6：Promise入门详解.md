@@ -631,12 +631,5 @@ Promise 自带的API提供了如下对象方法：
 
 - [手写一个Promise/A+,完美通过官方872个测试用例](https://www.cnblogs.com/dennisj/p/12660388.html)
 
-## 我的公众号
-
-想学习**代码之外的技能**？不妨关注我的微信公众号：**千古壹号**（id：`qianguyihao`）。
-
-扫一扫，你将发现另一个全新的世界，而这将是一场美丽的意外：
-
-![](http://img.smyhvae.com/20200101.png)
 
 

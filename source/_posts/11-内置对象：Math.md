@@ -238,13 +238,6 @@ URI (Uniform ResourceIdentifiers,通用资源标识符)进行编码，以便发�
 ![](http://img.smyhvae.com/20180202_1432.png)
 
 
-## 我的公众号
-
-想学习**代码之外的技能**？不妨关注我的微信公众号：**千古壹号**（id：`qianguyihao`）。
-
-扫一扫，你将发现另一个全新的世界，而这将是一场美丽的意外：
-
-![](http://img.smyhvae.com/20190101.png)
 
 
 

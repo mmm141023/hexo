@@ -693,12 +693,5 @@ function scroll() {  // 开始封装自己的scrollTop
 ![](http://img.smyhvae.com/20180203-Top.jpg)
 
 
-## 我的公众号
-
-想学习**代码之外的技能**？不妨关注我的微信公众号：**千古壹号**（id：`qianguyihao`）。
-
-扫一扫，你将发现另一个全新的世界，而这将是一场美丽的意外：
-
-![](http://img.smyhvae.com/20190101.png)
 
 
