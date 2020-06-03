@@ -54,8 +54,8 @@ menu:
 # 站点运行开始时间.
 time:
   enable: true
-  year: 2020 # 年份
-  month: 05 # 月份
+  year: 2019 # 年份
+  month: 06 # 月份
   date: 01 # 日期
   hour: 00 # 小时
   minute: 00 # 分钟
@@ -179,7 +179,7 @@ reward:
 # minCharNumber: Approve copyright information by copying at least how many characters.
 # 是否激活复制文章时追加博客和作者的版权信息.
 copyright:
-  enable: false
+  enable: true
   minCharNumber: 120 # 至少复制多少个字符就追加版权信息.
   description: 本文章著作权归作者所有，任何形式的转载都请注明出处。
 
@@ -324,7 +324,7 @@ livere:
 # To use it, activate the configuration item and set appId and appKey.
 # Valine 评论模块的配置，默认为不激活，如要使用，就请激活该配置项，并设置 appId 和 appKey.
 valine:
-  enable: true
+  enable: false
   appId: sRVx9ddByIOwMbUzokQHLLbu-gzGzoHsz
   appKey: xniwEaxCeXavxJa79sR0Um3l
   notify: false
@@ -489,8 +489,8 @@ daovoice:
 
 # Tidio online contact
 tidio:
-  enable: true
-  public_key: ujbtzczfdn8j8zfwvf22w4qasjhew9wk
+  enable: false
+  public_key: #ujbtzczfdn8j8zfwvf22w4qasjhew9wk
 
 #背景canvas-nest
 canvas_nest:
@@ -552,11 +552,11 @@ banner:
 
 #ICP备案信息尾部显示
 icp:
-  enable: false
-  url: # 备案链接
-  text: # 备案信息
+  enable: true
+  url: http://www.beian.miit.gov.cn/ # 备案链接
+  text: 晋ICP备20004310号-1 # 备案信息
 
-# CDN访问加速 
+# CDN访问加速
 # 第一次使用本功能，一定要先配置url，再`hexo cl && hexo g && hexo d`部署到GitHub的仓库，注意！必须是GitHub的仓库！
 # 如果必须要使用国内的coding或者gitee，可以采用双部署，同时将网站部署到两个仓库（其中一个必须是GitHub的仓库）
 # URL配置规则（例子如下）： https://cdn.jsdelivr.net/gh/你的GitHub用户名/你的仓库名
