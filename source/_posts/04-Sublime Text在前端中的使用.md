@@ -1,11 +1,15 @@
 ---
 title: 04-Sublime Text在前端中的使用.md
-date: 2019-02-25 13:33:16
+date: 2020-05-23 13:33:16
 tags: 
     - 前端工具
     - 前端
 categories: 前端面试复习
 ---
+
+
+
+
 
 
 
@@ -130,5 +134,21 @@ categories: 前端面试复习
 |**Ctrl+Shift+L**| | 先选中多行，再按下快捷键，会在每行行尾插入光标，即可同时编辑这些行| 经常与上一个快捷键结合起来使用 |
 |**Ctrl + Shift +【↑/↓**| Ctrl + Cmd +↑/↓ | 移动当前行 | |
 |F11||全屏||
+
+
+
+
+## 推荐阅读
+
+
+- [Sublime Text使用技巧](https://github.com/smyhvae/tools/blob/master/01-%E4%B8%AA%E4%BA%BA%E6%95%B4%E7%90%86/Sublime%20Text%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7.md)
+
+我自己整理的。
+
+
+## 参考链接
+
+- [像 Sublime Text 一样使用 Chrome DevTools](https://chinagdg.org/2015/12/%E5%83%8F-sublime-text-%E4%B8%80%E6%A0%B7%E4%BD%BF%E7%94%A8-chrome-devtools/)
+
 
 

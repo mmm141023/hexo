@@ -1,6 +1,6 @@
 ---
 title: MYSQL架构 :一条SQL查询语句是如何执行的
-date: 2019-06-04 13:33:16
+date: 2020-05-06 13:33:16
 tags: 
     - MySQL
 categories:
@@ -16,6 +16,10 @@ categories:
 ```mysql
 mysql> select * from T where ID=10；
 ```
+
+MySQL的基本架构示意图:
+
+![1555808577787](assets/1555808577787.png)
 
 大体来说，MySQL可以分为**Server层和存储引擎层**两部分。
 

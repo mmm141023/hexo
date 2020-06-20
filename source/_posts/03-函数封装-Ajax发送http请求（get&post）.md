@@ -1,6 +1,6 @@
 ---
 title: 03-函数封装-Ajax发送http请求（get&post）.md
-date: 2019-03-28 13:33:16
+date: 2020-05-24 13:33:16
 tags: 
     - Ajax
     - 前端
@@ -241,3 +241,7 @@ test_post.php：
  ?>
 
 ```
+
+工程文件：
+
+- 2018-02-28-Ajax请求封装.rar
