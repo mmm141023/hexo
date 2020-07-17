@@ -1,6 +1,6 @@
 ---
 title: 03-DOM操作练习：基础练习.md
-date: 2020-05-24 13:33:16
+date: 2020-06-01 13:33:16
 tags: 
     - CSS和DOM练习
     - 前端
@@ -709,14 +709,3 @@ placeholder: <input type="text" placeholder="我是placeholder"/>
 ```
 
 注意代码中的注释，需求2是比较难的地方，这里用到了两次for循环。第一次for循环是因为，要给每个input都要进行绑定事件。
-
-实现的效果如下：
-
-20180127_2320.gif
-
-
-
-
-```javascript
-
-```
